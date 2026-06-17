@@ -69,6 +69,24 @@
           ]
         }
       ]
+    },
+    {
+      "app": "app",
+      "globalurl": "https://cdn.jsdelivr.net/gh/caesarken/publicres@main/qinzileyuan/icon/app",
+      "modules": [
+        {
+          "name": "default",
+          "imgs": [
+            "icon_dingqishangxin.png",
+            "icon_doushouqi.png",
+            "icon_jianggushi.png",
+            "icon_junqi.png",
+            "icon_title.png",
+            "icon_wuziqi.png",
+            "icon_zaoju.png"
+          ]
+        }
+      ]
     }
   ]
 }
