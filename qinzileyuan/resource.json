@@ -1,0 +1,60 @@
+{
+  "modules": [
+    {
+      "app": "doushouqi",
+      "globalurl": "https://cdn.jsdelivr.net/gh/caesarken/publicres@main/qinzileyuan/icon/doushouqi",
+      "modules": [
+        {
+          "name": "dating",
+          "imgs": [
+            "dating/icon_dating_bg.png",
+            "dating/icon_dating_btn_green.png",
+            "dating/icon_dating_btn_yellow.png",
+            "dating/icon_dating_card.png",
+            "dating/icon_dating_elephant.png",
+            "dating/icon_dating_input.png",
+            "dating/icon_dating_lion.png",
+            "dating/icon_dating_map.png",
+            "dating/icon_dating_tent.png",
+            "dating/icon_dating_tiger.png",
+            "dating/icon_dating_title.png",
+            "dating/icon_dating_wolf.png"
+          ]
+        },
+        {
+          "name": "board",
+          "imgs": [
+            "board/icon_board_den_blue.png",
+            "board/icon_board_den_red.png",
+            "board/icon_board_river.png",
+            "board/icon_board_tile_land.png",
+            "board/icon_board_trap_blue.png",
+            "board/icon_board_trap_red.png"
+          ]
+        },
+        {
+          "name": "default",
+          "imgs": [
+            "default/icon_block.png",
+            "default/icon_cat.png",
+            "default/icon_cat_dis.png",
+            "default/icon_dog.png",
+            "default/icon_dog_dis.png",
+            "default/icon_elephant.png",
+            "default/icon_elephant_dis.png",
+            "default/icon_leopard.png",
+            "default/icon_leopard_dis.png",
+            "default/icon_lion.png",
+            "default/icon_lion_dis.png",
+            "default/icon_mouse.png",
+            "default/icon_mouse_dis.png",
+            "default/icon_tiger.png",
+            "default/icon_tiger_dis.png",
+            "default/icon_wolf.png",
+            "default/icon_wolf_dis.png"
+          ]
+        }
+      ]
+    }
+  ]
+}
