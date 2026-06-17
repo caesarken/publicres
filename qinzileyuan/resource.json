@@ -55,6 +55,20 @@
           ]
         }
       ]
+    },
+    {
+      "app": "junqi",
+      "globalurl": "https://cdn.jsdelivr.net/gh/caesarken/publicres@main/qinzileyuan/icon/junqi",
+      "modules": [
+        {
+          "name": "default",
+          "imgs": [
+            "icon-create-room.png",
+            "icon-join-room.png",
+            "icon-room-number.png"
+          ]
+        }
+      ]
     }
   ]
 }
