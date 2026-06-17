@@ -2,6 +2,7 @@
   "modules": [
     {
       "app": "doushouqi",
+      "ver": "1.0",
       "globalurl": "https://cdn.jsdelivr.net/gh/caesarken/publicres@main/qinzileyuan/icon/doushouqi",
       "modules": [
         {
@@ -58,6 +59,7 @@
     },
     {
       "app": "junqi",
+      "ver": "1.0",
       "globalurl": "https://cdn.jsdelivr.net/gh/caesarken/publicres@main/qinzileyuan/icon/junqi",
       "modules": [
         {
@@ -72,6 +74,7 @@
     },
     {
       "app": "app",
+      "ver": "1.0",
       "globalurl": "https://cdn.jsdelivr.net/gh/caesarken/publicres@main/qinzileyuan/icon/app",
       "modules": [
         {
