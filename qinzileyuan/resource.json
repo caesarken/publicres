@@ -2,9 +2,8 @@
   "modules": [
     {
       "app": "doushouqi",
-      "ver": "1.0",
-      "globalurl": "https://cdn.jsdelivr.net/gh/caesarken/publicres@main/qinzileyuan/icon/doushouqi",
-      "modules": [
+      "ver": "1.0.2",
+      "globalurl": "https://resourceapp.skyatom.cn/qinzileyuan/icon/doushouqi",      "modules": [
         {
           "name": "dating",
           "imgs": [
@@ -36,6 +35,13 @@
         {
           "name": "default",
           "imgs": [
+            "default/voice_daojishi_10s.mp3",
+            "default/voice_luozi.mp3",
+            "default/voice_shiwu.mp3",
+            "default/voice_youxishengli.mp3",
+            "default/voice_youxishibai.mp3",
+
+
             "default/icon_block.png",
             "default/icon_cat.png",
             "default/icon_cat_dis.png",
@@ -59,15 +65,20 @@
     },
     {
       "app": "junqi",
-      "ver": "1.0",
-      "globalurl": "https://cdn.jsdelivr.net/gh/caesarken/publicres@main/qinzileyuan/icon/junqi",
+      "ver": "1.0.2",
+      "globalurl": "https://resourceapp.skyatom.cn/qinzileyuan/icon/junqi",
       "modules": [
         {
           "name": "default",
           "imgs": [
             "icon-create-room.png",
             "icon-join-room.png",
-            "icon-room-number.png"
+            "icon-room-number.png",
+            "default/voice_daojishi_10s.mp3",
+            "default/voice_luozi.mp3",
+            "default/voice_shiwu.mp3",
+            "default/voice_youxishengli.mp3",
+            "default/voice_youxishibai.mp3"
           ]
         }
       ]
@@ -75,7 +86,7 @@
     {
       "app": "app",
       "ver": "1.0",
-      "globalurl": "https://cdn.jsdelivr.net/gh/caesarken/publicres@main/qinzileyuan/icon/app",
+      "globalurl": "https://resourceapp.skyatom.cn/qinzileyuan/icon/app",
       "modules": [
         {
           "name": "default",
