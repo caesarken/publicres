@@ -101,6 +101,21 @@
           ]
         }
       ]
+    },{
+      "app": "wuzhiqi",
+      "ver": "1.0.0",
+      "globalurl": "https://resourceapp.skyatom.cn/qinzileyuan/icon/wuzhiqi",      "modules": [
+        {
+          "name": "default",
+          "imgs": [
+            "default/voice_daojishi_10s.mp3",
+            "default/voice_luozi.mp3",
+            "default/voice_shiwu.mp3",
+            "default/voice_youxishengli.mp3",
+            "default/voice_youxishibai.mp3"
+          ]
+        }
+      ]
     }
   ]
 }
