@@ -3,7 +3,8 @@
     {
       "app": "doushouqi",
       "ver": "1.0.2",
-      "globalurl": "https://resourceapp.skyatom.cn/qinzileyuan/icon/doushouqi",      "modules": [
+      "globalurl": "https://resourceapp.skyatom.cn/qinzileyuan/icon/doushouqi",
+      "modules": [
         {
           "name": "dating",
           "imgs": [
@@ -40,8 +41,6 @@
             "default/voice_shiwu.mp3",
             "default/voice_youxishengli.mp3",
             "default/voice_youxishibai.mp3",
-
-
             "default/icon_block.png",
             "default/icon_cat.png",
             "default/icon_cat_dis.png",
@@ -101,10 +100,26 @@
           ]
         }
       ]
-    },{
-      "app": "wuzhiqi",
-      "ver": "1.0.0",
-      "globalurl": "https://resourceapp.skyatom.cn/qinzileyuan/icon/wuzhiqi",      "modules": [
+    },
+    {
+      "app": "wuziqi",
+      "ver": "1.0.1",
+      "globalurl": "https://resourceapp.skyatom.cn/qinzileyuan/icon/wuziqi",
+      "modules": [
+        {
+          "name": "dating",
+          "imgs": [
+            "dating/icon_dating_bg.png",
+            "dating/icon_dating_createroom.png",
+            "dating/icon_dating_joinroom.png"
+          ]
+        },
+        {
+          "name": "board",
+          "imgs": [
+            "board/icon_board_bg.png"
+          ]
+        },
         {
           "name": "default",
           "imgs": [
